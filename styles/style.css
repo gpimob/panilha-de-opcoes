@@ -1,23 +1,18 @@
-/* ================= RESET GLOBAL ================= */
+/* ===== RESET ===== */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* ================= BODY ================= */
+/* ===== BODY ===== */
 body {
   font-family: "Segoe UI", Arial, sans-serif;
-  background: linear-gradient(
-    180deg,
-    #070f26 0%,
-    #050b1a 50%,
-    #070f26 100%
-  );
+  background: linear-gradient(180deg, #070f26, #050b1a, #070f26);
   color: #ffffff;
 }
 
-/* ================= TOPO ================= */
+/* ===== TOPO ===== */
 .topo {
   text-align: center;
   margin-bottom: 30px;
@@ -28,13 +23,13 @@ body {
   margin-bottom: 10px;
 }
 
-/* ================= TÍTULO ================= */
+/* ===== TÍTULO ===== */
 h1 {
   font-size: 26px;
   letter-spacing: 1px;
 }
 
-/* ================= FILTROS ================= */
+/* ===== FILTROS ===== */
 .filtros {
   max-width: 720px;
   margin: 0 auto 25px;
@@ -50,7 +45,7 @@ h1 {
   color: #fff;
 }
 
-/* ================= AÇÕES ================= */
+/* ===== BOTÕES ===== */
 .acoes {
   display: flex;
   gap: 10px;
@@ -63,14 +58,9 @@ h1 {
   border: none;
   font-weight: bold;
   cursor: pointer;
-  transition: opacity 0.2s ease;
 }
 
-.acoes button:hover {
-  opacity: 0.9;
-}
-
-/* ================= TABELA ================= */
+/* ===== TABELA ===== */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -85,39 +75,34 @@ thead th {
 
 td {
   padding: 12px;
-  font-size: 16px;
   text-align: center;
+  font-size: 16px;
 }
 
 tbody tr {
   border-bottom: 1px dotted #2a2f45;
-  transition: background 0.2s ease;
 }
 
 tbody tr:hover {
   background: #0b1326;
 }
 
-/* ================= NOME DO IMÓVEL ================= */
-/* Primeira coluna (nome) */
+/* ===== LINK DO IMÓVEL ===== */
 td:first-child {
-  color: #e6c27a;
   font-weight: bold;
+  color: #e6c27a;
 }
 
-/* Link invisível (não parece URL) */
 .link-imovel {
-  color: inherit;           /* herda o dourado */
-  text-decoration: none;    /* remove sublinhado */
-  cursor: pointer;
+  color: inherit;
+  text-decoration: none;
 }
 
-/* Feedback ao passar o mouse */
 .link-imovel:hover {
   text-decoration: underline;
 }
 
-/* ================= RODAPÉ ================= */
+/* ===== RODAPÉ ===== */
 footer {
   margin-top: 30px;
   text-align: center;

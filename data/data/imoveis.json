@@ -1,0 +1,23 @@
+[
+  {
+    "nome": "Aloha",
+    "bairro": "Barra da Tijuca",
+    "valor": "R$ 1.110.000",
+    "tipologia": "2qts",
+    "url": "https://drive.google.com/"
+  },
+  {
+    "nome": "Alphagreen",
+    "bairro": "Barra da Tijuca",
+    "valor": "R$ 1.100.000",
+    "tipologia": "2qts",
+    "url": "https://drive.google.com/"
+  },
+  {
+    "nome": "Barra Bali - Beach",
+    "bairro": "Barra da Tijuca",
+    "valor": "R$ 760.000",
+    "tipologia": "3qts",
+    "url": "https://drive.google.com/"
+  }
+]
