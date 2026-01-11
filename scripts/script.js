@@ -1,5 +1,16 @@
+// ================= ALERTA AO CORRETOR (APARECE APENAS UMA VEZ) =================
+if (!localStorage.getItem("alertaCorretor")) {
+  alert(
+    "Olá corretor parceiro!\n\n" +
+    "Você está acessando minha planilha de opções diretas atualizada.\n\n" +
+    "Ao clicar no nome de cada opção, você será redirecionado para uma pasta no Drive " +
+    "contendo as fotos e a descrição de cada imóvel."
+  );
+  localStorage.setItem("alertaCorretor", "true");
+}
+
 // ================= DADOS ORIGINAIS =================
-// Cada imóvel pode ter uma URL própria (Drive, site, PDF etc)
+// Cada imóvel pode conter uma URL (Drive, PDF, site, etc)
 const dadosOriginais = [
   { 
     nome: "Aloha", 
@@ -47,7 +58,7 @@ const btnLimpar = document.getElementById("limpar");
 const btnOrdenar = document.getElementById("ordenar");
 
 // ================= FUNÇÕES AUXILIARES =================
-// Converte "R$ 1.110.000" em número para ordenação
+// Converte valor monetário para número (para ordenação)
 function valorNumerico(valor) {
   return Number(
     valor
@@ -59,7 +70,7 @@ function valorNumerico(valor) {
 }
 
 // ================= RENDERIZAÇÃO DA TABELA =================
-// Renderiza os imóveis na tabela
+// Monta a tabela dinamicamente
 function renderTabela(lista) {
   tbody.innerHTML = "";
 
@@ -119,7 +130,7 @@ btnLimpar.onclick = () => {
 };
 
 // ================= EVENTOS =================
-// Dispara filtro ao digitar em qualquer campo
+// Dispara o filtro automaticamente ao digitar
 [inputNome, inputBairro, inputValor, inputTipologia]
   .forEach(input => input.addEventListener("input", aplicarFiltros));
 
