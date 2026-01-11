@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<!-- Define o tipo do documento como HTML5 -->
+<html lang="pt-BR">
+  <head>
+    <!-- Define o padrão de caracteres (acentuação correta) -->
+    <meta charset="UTF-8">
+
+    <!-- Responsividade: adapta o layout para mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Título exibido na aba do navegador -->
+    <title>GP IMOB | Lista de Imóveis</title>
+
+    <!-- CSS principal (cores, layout, tabela, logo) -->
+    <link rel="stylesheet" href="./styles/style.css">
+
+    <!-- CSS responsivo (mobile e telas menores) -->
+    <link rel="stylesheet" href="./styles/responsive.css">
+  </head>
+ 
+  <body>
+    <!-- ================= TOPO / HEADER ================= -->
+    <!-- Área do logo e título do site -->
+    <header class="topo">
+
+      <!-- Logo da GP IMOB -->
+      <!-- PNG com fundo tratado para integrar ao layout -->
+      <img 
+        src="./assets/logo-gp-imob.png.png" 
+        alt="GP IMOB" 
+        class="logo"
+      >
+
+      <!-- Título principal da página -->
+      <h1>Lista de Imóveis</h1>
+    </header>
+
+    <!-- ================= FILTROS ================= -->
+    <!-- Inputs para filtragem dinâmica da tabela -->
+    <section class="filtros">
+
+      <!-- Filtro por nome do imóvel -->
+      <input 
+        id="search-nome" 
+        placeholder="Pesquisar por nome do imóvel"
+      >
+
+      <!-- Filtro por bairro -->
+      <input 
+        id="search-bairro" 
+        placeholder="Pesquisar por bairro"
+      >
+
+      <!-- Filtro por valor (texto, ex: 500.000) -->
+      <input 
+        id="search-valor" 
+        placeholder="Pesquisar por valor"
+      >
+
+      <!-- Filtro por tipologia (2qts, 3qts etc) -->
+      <input 
+        id="search-tipologia" 
+        placeholder="Pesquisar por tipologia"
+      >
+
+      <!-- ================= AÇÕES ================= -->
+      <!-- Botões de controle da tabela -->
+      <div class="acoes">
+
+        <!-- Limpa todos os filtros e restaura a tabela -->
+        <button id="limpar">
+          Limpar filtros
+        </button>
+
+        <!-- Ordena os imóveis pelo valor (crescente/decrescente) -->
+        <button id="ordenar">
+          Ordenar por valor ⬆⬇
+        </button>
+
+      </div>
+    </section>
+
+    <!-- ================= TABELA ================= -->
+    <!-- Estrutura da listagem de imóveis -->
+    <table>
+
+      <!-- Cabeçalho da tabela -->
+      <thead>
+        <tr>
+          <th>Nome do Imóvel</th>
+          <th>Bairro</th>
+          <th>Valor</th>
+          <th>Tipologia</th>
+        </tr>
+      </thead>
+
+      <!-- Corpo da tabela -->
+      <!-- Preenchido dinamicamente via JavaScript -->
+      <tbody id="tabela-dados"></tbody>
+
+    </table>
+
+    <!-- ================= RODAPÉ ================= -->
+    <footer>
+      <p>© Leonam Nery</p>
+    </footer>
+
+    <!-- ================= JAVASCRIPT ================= -->
+    <!-- Script responsável por filtros, ordenação e renderização -->
+    <script src="./scripts/script.js"></script>
+
+  </body>
+</html>
