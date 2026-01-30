@@ -1,76 +1,1418 @@
 [
   {
-    "nome": "Paraíso Particular",
-    "bairro": "Ilha da Gipóia",
-    "valor": 12000000,
-    "tipologia": "6qts",
+    "Nome do imovel": "Paraíso particular",
+    "Bairro": "Ilha da Gipóia",
+    "Valor": 12000000,
+    "Tipologia": "6qts",
+    "Condominio": "-",
     "url": "https://drive.google.com/drive/folders/1gmjgJ0kQyjpaEz4Nu_kjei79QsD3nrN5"
   },
   {
-    "nome": "Casa",
-    "bairro": "Mangaratiba",
-    "valor": 11000000,
-    "tipologia": "5qts",
+    "Nome do imovel": "Casa",
+    "Bairro": "Mangaratiba",
+    "Valor": "R$11 .000.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "-",
     "url": "https://drive.google.com/drive/folders/1z1CI7PCkFULo1wYa-FSHCE8jFPPBb3zR"
   },
   {
-    "nome": "Sala Comercial",
-    "bairro": "Barra da Tijuca",
-    "valor": 1720,
-    "condominio": "Lead Américas",
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$1.720,00",
+    "Tipologia": "-",
+    "Condominio": "Lead Américas",
     "url": "https://drive.google.com/drive/folders/1JqK8flFvv8_ktGQx5Yh_rZNIJc1-zZW6"
   },
   {
-    "nome": "Sala Comercial",
-    "bairro": "Barra da Tijuca",
-    "valor": 1500,
-    "condominio": "Lead Américas",
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$1.500,00",
+    "Tipologia": "-",
+    "Condominio": "Lead Américas",
     "url": "https://drive.google.com/drive/folders/1p2V8lDXFzHTOOkQRENtLTt4IrbGJXY4D"
   },
   {
-    "nome": "Sala Comercial",
-    "bairro": "Barra da Tijuca",
-    "valor": 25000,
-    "condominio": "Lead Américas",
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$1.720,00",
+    "Tipologia": "-",
+    "Condominio": "Lead Américas",
+    "url": "https://drive.google.com/drive/folders/1y1PbbqKEdUcEulnTj2lG3R_H1kCyd6QS"
+  },
+  {
+    "Nome do imovel": "Sala comercial - Andar corporativo",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$25.000,00",
+    "Tipologia": "-",
+    "Condominio": "Lead Américas",
     "url": "https://drive.google.com/drive/folders/1IIyTENdId3xFr5RDbkG1UiMRyUfa5cZ9"
   },
   {
-    "nome": "Apartamento",
-    "bairro": "Barra da Tijuca",
-    "valor": 2490000,
-    "tipologia": "4qts",
-    "condominio": "Península",
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$680.000,00",
+    "Tipologia": "-",
+    "Condominio": "Lead Américas",
+    "url": "https://drive.google.com/drive/folders/1Fjuu2QUiWKXrQXRDez0jmCqaVubZRWdf"
+  },
+  {
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$2.800,00",
+    "Tipologia": "-",
+    "Condominio": "Lead Américas",
+    "url": "https://drive.google.com/drive/folders/1HwzAeTEF1xLrjnN8hyswgckgWeTtR6hP"
+  },
+  {
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$329.900,00",
+    "Tipologia": "-",
+    "Condominio": "Lead Américas",
+    "url": "https://drive.google.com/drive/folders/1aOea0EkWlutYppzeWsOLWcB0T8FH2ITw"
+  },
+  {
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$6.000,00",
+    "Tipologia": "-",
+    "Condominio": "Lead Américas",
+    "url": "https://drive.google.com/drive/folders/1XZDwdyDIXtbF4sa2ts9nLayWpXrFWvGm"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$24.900,00",
+    "Tipologia": "4qts",
+    "Condominio": "Península",
     "url": "https://drive.google.com/drive/folders/1foiQAjX7Ci6-poXdRvwD0wI3VypkGd_7"
   },
   {
-    "nome": "Andar Comercial",
-    "bairro": "Barra da Tijuca",
-    "valor": 70000,
-    "condominio": "Barra Business Center",
+    "Nome do imovel": "Andar comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$70.000,00",
+    "Tipologia": "-",
+    "Condominio": "Barra Business Center",
     "url": "https://drive.google.com/drive/folders/1qjdMm_d4H3O8Uq-o3QKpjEmMIDgQwU2T"
   },
   {
-    "nome": "Apartamento",
-    "bairro": "Barra da Tijuca",
-    "valor": 750000,
-    "tipologia": "2qts",
-    "condominio": "London Green Park & Style",
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$315.000,00",
+    "Tipologia": "-",
+    "Condominio": "Blue Sky Offices",
+    "url": "https://drive.google.com/drive/folders/1o9TxjPKQ_wfYMMbEstuBT522BzWN7WBI"
+  },
+  {
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$380.000,00",
+    "Tipologia": "-",
+    "Condominio": "Le Monde Offices",
+    "url": "https://drive.google.com/drive/folders/1dxL_blm6b7if9HbPTXSiuOnic82rtv6Z"
+  },
+  {
+    "Nome do imovel": "Conjunto comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$2.700.000,00",
+    "Tipologia": "-",
+    "Condominio": "Le Monde Offices",
+    "url": "https://drive.google.com/drive/folders/1qgXTOrPeMEvKpqz6c-xMKkm_IUCDRMBM"
+  },
+  {
+    "Nome do imovel": "Sala comercial",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$499.000,00",
+    "Tipologia": "-",
+    "Condominio": "Centro Empresarial Barra Shopping",
+    "url": "https://drive.google.com/drive/folders/1zE7eJsBtQ7R9biLsu4rwalI1RTyBXusB"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$750.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "London Green Park & Style",
     "url": "https://drive.google.com/drive/folders/1vfcZ_8fkcX21QfrNulWuEqrLY0x1Rmy-"
   },
   {
-    "nome": "Apartamento",
-    "bairro": "Barra da Tijuca",
-    "valor": 1150000,
-    "tipologia": "2qts",
-    "condominio": "Via Barra - ABM",
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$790.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "Millenio Resort",
+    "url": "https://drive.google.com/drive/folders/1pNdo4RWKGf2Z00K4ZtNoE6_YWJShbaHK"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$1.150.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "Via Barra - ABM",
     "url": "https://drive.google.com/drive/folders/1AnxLVBzTzzv8S8rN6amY1yiUtfiUdYwq"
   },
   {
-    "nome": "Apartamento",
-    "bairro": "Barra da Tijuca",
-    "valor": 2200000,
-    "tipologia": "3qts",
-    "condominio": "Icon Golf Residences",
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$1.290.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "Queen Christina",
+    "url": "https://drive.google.com/drive/folders/1HpK_Y_jK8FllN3RH7yv7-nc2-iQT_XSf"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$1.570.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Jardim Oceânico",
+    "url": "https://drive.google.com/drive/folders/1haTEuGif48LRnPGmSxAD2h5-clPql4xJ"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$2.200.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Icon Golf Residences",
     "url": "https://drive.google.com/drive/folders/1Q7DtLq4lrpkM3M59t28Mf1qLcobZ0MfQ"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 1587000,
+    "Tipologia": "3qts",
+    "Condominio": "Icon Golf Residences",
+    "url": "https://drive.google.com/drive/folders/12PqsHBWgEM9M5k-Z1vQFHulyMobDDxIu"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 1650000,
+    "Tipologia": "3qts",
+    "Condominio": "Barrinha",
+    "url": "https://drive.google.com/drive/folders/1c9pt_bZGuG6m5zaGrevxQMPbtYxCFrns"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 1699000,
+    "Tipologia": "3qts",
+    "Condominio": "Jardim Oceânico",
+    "url": "https://drive.google.com/drive/folders/1DdWnkQOO_NEKKYoDWoxopMJo4wuNXLiF"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 1850000,
+    "Tipologia": "3qts",
+    "Condominio": "Jardim Oceânico",
+    "url": "https://drive.google.com/drive/folders/1oM2ITS1aV8OZWQwLL_aM7t42bDFUgZup"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 1950000,
+    "Tipologia": "3qts",
+    "Condominio": "Alfa Plaza - Alfa Barra",
+    "url": "https://drive.google.com/drive/folders/1gM-SFGfZ7qK_ntjPSQiCUJfpGrIMw1f6"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 1990000,
+    "Tipologia": "3qts",
+    "Condominio": "Condomínio Lyon",
+    "url": "https://drive.google.com/drive/folders/1z2capX-rPktrA7hpSLFTOQ0QchzaFuTS"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 2450000,
+    "Tipologia": "3qts",
+    "Condominio": "Palais de Nice",
+    "url": "https://drive.google.com/drive/folders/1cTmlcmtKAIIY4zjBBlhL5CfhTzXQRhBG"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 2798000,
+    "Tipologia": "5qts",
+    "Condominio": "Interlagos Quality",
+    "url": "https://drive.google.com/drive/folders/1W1Te67Y6WHMsH6l4XlfYQ1fe22hprDwt"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 5473000,
+    "Tipologia": "4qts",
+    "Condominio": "Font Vieille - Península Barra",
+    "url": "https://drive.google.com/drive/folders/1ZsiptbXKlXqz_U-GE3exhidvIYkGzc5k"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 2900000,
+    "Tipologia": "4qts",
+    "Condominio": "Font Vieille - Península Barra",
+    "url": "https://drive.google.com/drive/folders/1f7QeWuwbj8Xt0pjKGFJhOymTUlEJdlpS"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 2950000,
+    "Tipologia": "4qts",
+    "Condominio": "Santa Marina",
+    "url": "https://drive.google.com/drive/folders/1RqS2UYDwuVbeFaxtwFsJ8eyB7FNPWhT1"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": 2990000,
+    "Tipologia": "3qts",
+    "Condominio": "Ocean Drive - Praia da Barra",
+    "url": "https://drive.google.com/drive/folders/1k1BljANUpFa-jZWC5Flxaqa7UmBBshcI"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$3.250.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "Grand Hyatt Residences",
+    "url": "https://drive.google.com/drive/folders/18WHLdGAQ2f-x8dleCYFPj86zLyxXt-wC"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$2.480.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "Grand Hyatt Residences",
+    "url": "https://drive.google.com/drive/folders/1LzlrAnt6nXpXvYPO3nBrjtr1my9TBLzp"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$3.500.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1DYh6Q7c6gfcGvfsWP3TwFo6PwMD4LNUf"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$12.500.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Villaggio Felicitá",
+    "url": "https://drive.google.com/drive/folders/1oBTHRTK56c4cvJ5n-OPYjeks4Kr-38F0"
+  },
+  {
+    "Nome do imovel": "Terreno",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$4.302.000,00",
+    "Tipologia": "-",
+    "Condominio": "Villaggio Felicitá",
+    "url": "https://drive.google.com/drive/folders/1Q1Il2nIJ8QjDLyd4nBQGF_Q3z5Ph7c0o"
+  },
+  {
+    "Nome do imovel": "Terreno",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$3.503.000,00",
+    "Tipologia": "-",
+    "Condominio": "Villaggio Felicitá",
+    "url": "https://drive.google.com/drive/folders/1ydpA5pSleDzTH3WELS0by4nnVcxwY9lp"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$3.750.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Condomínio Waterways",
+    "url": "https://drive.google.com/drive/folders/1sfP7uPbnwoiqdUEO9Ur0Z0JmrubU9rrL"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$3.990.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Barra de Itaúna",
+    "url": "https://drive.google.com/drive/folders/1ryO5OILBfiIZcl3IKsbF7saGra6TA7ew"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$3.990.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Alamedas dos Eucaliptos",
+    "url": "https://drive.google.com/drive/folders/1YPwvS9fs7-VT7Cq538jwDxIeVu6MFt-3"
+  },
+  {
+    "Nome do imovel": "Cobertura",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$4.500.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "La Reserve",
+    "url": "https://drive.google.com/drive/folders/1hh_mgTHquTrgfcreXdgTVOWWoBMgQ4pD"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$4.750.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Itaúna Gold - Pedra de Itaúna",
+    "url": "https://drive.google.com/drive/folders/12tb8c5MFgbTUv4DEXJuyJbCasjkmLzIA"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$4.790.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Interlagos de Itaúna",
+    "url": "https://drive.google.com/drive/folders/1h5eS-4a2-9KwBunn0h6N19Nltfr3aHiJ"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$5.200.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Rio Mar",
+    "url": "https://drive.google.com/drive/folders/1NFunFYIMj3YiWgR80g1WbhPe9q9RSIzb"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$4.800.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Rio Mar",
+    "url": "https://drive.google.com/drive/folders/1Xats9jxrKb6VRB_G8loPfWekroKg2S1q"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$5.200.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Rio Mar",
+    "url": "https://drive.google.com/drive/folders/1c756A34FE39tumIgBza7YVtNyRaPbcEE"
+  },
+  {
+    "Nome do imovel": "Cobertura",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$5.700.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Acquabella",
+    "url": "https://drive.google.com/drive/folders/1T3U-JKsq82gt1wLcKcE245Ly-3sji-wu"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$5.900.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Barramares | Praia da Barra",
+    "url": "https://drive.google.com/drive/folders/1mwxZRQftaMjKQL73nfqkaaTrjHFs0xWl"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$1.870.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Barramares | Praia da Barra",
+    "url": "https://drive.google.com/drive/folders/16si9GNNOulLZorWDXHVFSTo_FPi2JkcU"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$5.990.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Les Residence de Mônaco",
+    "url": "https://drive.google.com/drive/folders/1zkjiDkwH56FiuAco8dBSL7SZXd3CVquS"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$6.000.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Blue Houses",
+    "url": "https://drive.google.com/drive/folders/1mmKExQqJSa56GcHO_RKbHyDlzUN4_ksM"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$7.900.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Alphaville Barra da Tijuca",
+    "url": "https://drive.google.com/drive/folders/1dwrnTSYADZjW-KCm77G8j_8VWXPYQiTm"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$6.200.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Alphaville Barra da Tijuca",
+    "url": "https://drive.google.com/drive/folders/1tmdmMHdIXgZuAsexIB5h6MzcnnlWjEU0"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$8.350.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Alphaville Barra da Tijuca",
+    "url": "https://drive.google.com/drive/folders/1N2s3r0CglMUwcsCuWvPzXXNM62YXLsC6"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$7.900.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Wave by Yoo",
+    "url": "https://drive.google.com/drive/folders/1qxJ7XBQTWxDc-d7dSkw27qKgGvofSUY4"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$50.000,00",
+    "Tipologia": "6qts",
+    "Condominio": "Pedra de Itaúna",
+    "url": "https://drive.google.com/drive/folders/1guXorqyT6unPedLTpcQqIvKdIk_Ktu1J"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$22.500.000,00",
+    "Tipologia": "6qts",
+    "Condominio": "Pedra de Itaúna",
+    "url": "https://drive.google.com/drive/folders/1vJt2wIVBnh1_PBXqibxcxo6khupMqjb8"
+  },
+    {
+    "Nome do imovel": "Cobertura Triplex",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$11.900.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/171GyDsG-8dRHBl4zzRS4oj8ZP1uNmm4J"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$12.900.000,00",
+    "Tipologia": "6qts",
+    "Condominio": "Quintas do Rio - Riviera da Lagoa",
+    "url": "https://drive.google.com/drive/folders/1iCYt4mpUm5RQro3By_380kiBLPTLrirM"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$18.500.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Cyano Exclusive Residences",
+    "url": "https://drive.google.com/drive/folders/1WyY87b1BTS-Ng_q9xXp2WxHc1yOL9VdM"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$6.500.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Cyano Exclusive Residences",
+    "url": "https://drive.google.com/drive/folders/1he5ZxY1HznFrQwJujPOVkF8wQI7xo4Uj"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$13.900.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Cyano Exclusive Residences",
+    "url": "https://drive.google.com/drive/folders/1DdmQ51d1rHm8baJUrmB7mC40ZkWT7pI1"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$13.000.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Cyano Exclusive Residences",
+    "url": "https://drive.google.com/drive/folders/17d7XmQ_A8oJgFfdckJ4JQPdvdgufTDq6"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$13.900.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Del Lago - Riviera da Lagoa",
+    "url": "https://drive.google.com/drive/folders/1rmpioqisJtNoChKu1uqnckMXZdP_8tbX"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$11.900.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Del Lago - Riviera da Lagoa",
+    "url": "https://drive.google.com/drive/folders/1JPXunoonnUanQ50CwtOeOUt3KioUqUZD"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$12.500.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Del Lago - Riviera da Lagoa",
+    "url": "https://drive.google.com/drive/folders/1xWyijZPb1l7epphnH59INhxYe3T68GOQ"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$8.900.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Del Lago - Riviera da Lagoa",
+    "url": "https://drive.google.com/drive/folders/1A_CLKd5V547WG3Vru0rwF4wuXuxFrCnF"
+  },
+    {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$9.000.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Del Lago - Riviera da Lagoa",
+    "url": "https://drive.google.com/drive/folders/1pGThseoil7HbLwVmiYX1Osl8fBYjMR0W"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$19.600.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Mansões",
+    "url": "https://drive.google.com/drive/folders/1SiTxx0QeTwGjaxDjTTBoe4ftfVLgJs5w"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$15.000.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Mansões",
+    "url": "https://drive.google.com/drive/folders/1ideBLvC-B8DrChV846JS1jr_bSmQiVSi"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$1.890.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Novo Leblon",
+    "url": "https://drive.google.com/drive/folders/14Kj_khoa2LZV99b-B05-cF6AYNTs5ojC"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$15.900.000,00",
+    "Tipologia": "9qts",
+    "Condominio": "Novo Leblon",
+    "url": "https://drive.google.com/drive/folders/1Mvg9_UdDKwvYNMB7W4IaUHp1T578iGm_"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$70.000,00",
+    "Tipologia": "9qts",
+    "Condominio": "Novo Leblon",
+    "url": "https://drive.google.com/drive/folders/1E933EC4RYHlEAGCX7574pHTMrKx9aM7y"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$7.900.000,00",
+    "Tipologia": "6qts",
+    "Condominio": "Novo Leblon",
+    "url": "https://drive.google.com/drive/folders/1sgbvnnB4vxuNsJjdWiAQfegEa2aG4xuS"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$21.000.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Atto by Pininfarina",
+    "url": "https://drive.google.com/drive/folders/1M-gh696xoEvNbAKoSa8WdXRGxT0hk6Il"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$9.900.000,00",
+    "Tipologia": "6qts",
+    "Condominio": "Malibu",
+    "url": "https://drive.google.com/drive/folders/1JxnUk0CjhV3aMF7EpaoOsCyi6YYhU7uD"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$23.500.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Malibu",
+    "url": "https://drive.google.com/drive/folders/1zUYeLcJHy4tS4waqeztl8azd16HApcbZ"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$28.000.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "RIIO by Piero Lissono",
+    "url": "https://drive.google.com/drive/folders/1Za4qZ6F8wMbcFB-mxr977nIkpS3IlEDm"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Barra da Tijuca",
+    "Valor": "R$29.990.000,00",
+    "Tipologia": "7qts",
+    "Condominio": "Wimbledon Park",
+    "url": "https://drive.google.com/drive/folders/11jU6EzTqqKFN97NTFLTfAAKZD0fvdbXc"
+  },
+  {
+    "Nome do imovel": "Loja",
+    "Bairro": "Botafogo",
+    "Valor": "R$29.500,00",
+    "Tipologia": "-",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1BoDCiCSlx4SKff8Rqe-RQgSfBsDX-yON"
+  },
+  {
+    "Nome do imovel": "Loja",
+    "Bairro": "Botafogo",
+    "Valor": "R$3.500.000,00",
+    "Tipologia": "-",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1x0Zrp9BNdLjl-UMXBnZ68O2sYrQVCKh0"
+  },
+  {
+    "Nome do imovel": "Loja",
+    "Bairro": "Botafogo",
+    "Valor": "R$6.500.000,00",
+    "Tipologia": "-",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1FaW06cj3ywzWhqyCpup7OLP143CRiLDf"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Botafogo",
+    "Valor": "R$880.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1az5y6gN2MTVmMtiX1Zf8Jf3VjVUzIni6"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Campo Grande",
+    "Valor": "R$320.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/13_MGWPEgWqpIOvLunONWhcG5QcdTtQNc"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Centro",
+    "Valor": "R$280.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1ZiZBZH4DHFae7Hgpl8gNWrJioiQEEy2F"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Centro",
+    "Valor": "R$230.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1tx2R2wFPbIaDmHoueyZcto9sOf9APEgT"
+  },
+  {
+    "Nome do imovel": "Studio",
+    "Bairro": "Centro",
+    "Valor": "R$320.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1XjlFuYAWgnHaxPpWbGfgknMG-17t_K2z"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$2.190.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1cPJSRO3bfdn4IDS9i7V_fBh3qf2osPTk"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$1.250.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1H7A8_92V9KFnp3TWHQYZYt8Q6ZEh4mQ5"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$2.100.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1t4sC6h95zCTnYeQJYKm0M5zZoSZFclWE"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$9.900.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1N3o6VsF6iMltvWDwKlWcNBCjYV9VoAg3"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$1.445.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1ro7LF3puOKgl8eEOp_qZw_q4SsaVxOp3"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$2.100.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1mDo4TdA6nVLImvCEIu4K7BRo-iglvVbj"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$896.064,00",
+    "Tipologia": "1qt",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1EKz4ihklDE1oAuoAiMVKUYeRJvlgmWxr"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$12.325.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/14uSXpoEt0yHL7DSeBLRX2UOtIbsOrwv5"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$590.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1J5Fdjxr49_8KyN6BJCldTANCfrQiyX0f"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$2.390.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1Fxp-zNA852QFxWDP7tavT3qzEEkuKVUI"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$3.900.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/15nY3bU8gMgvImJvpPGaSXuQYt9JvvQOn"
+  },
+  {
+    "Nome do imovel": "Loja",
+    "Bairro": "Copacabana",
+    "Valor": "R$320.000,00",
+    "Tipologia": "-",
+    "Condominio": "Edifício Apart Hotel Copacabana",
+    "url": "https://drive.google.com/drive/folders/1nafFFNXorjOqohxzdMwP0vtPW8j2kcCQ"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$1.870.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1LvFD39zc96jrXME8et2zYHMyX_LvyhlA"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Copacabana",
+    "Valor": "R$1.828.991,00",
+    "Tipologia": "1qt",
+    "Condominio": "Canto Rio Resort - Arpoador",
+    "url": "https://drive.google.com/drive/folders/1Vm78snOwNKO5TlMnz6CCKW6YJAlzTT4O"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Curicica",
+    "Valor": "R$389.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1970H1Z0GNlXXT3katX6Vf_AD2vwrhBLO"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Flamengo",
+    "Valor": "R$3.500.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1ZOZhoY1GG8ebforyWL1_b8a8nKawKxq3"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Flamengo",
+    "Valor": "R$2.640.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1HK_TqNitPs2mJbqhVotytv9cqilbPczf"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Flamengo",
+    "Valor": "R$2.640.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1_nAMyYhdMVo5QucvU2kWAf4xHMgInSyz"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Freguesia (Jacarepaguá)",
+    "Valor": "R$850.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1SKuOchv2QFFgBw32iOLlVHmoGC3cPmRI"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Glória",
+    "Valor": "R$4.006.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "Glória Residencial",
+    "url": "https://drive.google.com/drive/folders/1NNpq_k3aT-6JmwzKEouD6_CRHi9qOEis"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$9.900.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1_w5ExXi9epH1ULyLJmqxnQwDUElB8Kzf"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$950.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1n8GHutVh9aMCtxYLlLeqV6FBdexyLUqv"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$1.890.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1G1-vGc6tkl0NyzZKXN3HSvr1QrUU6KnW"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$2.850.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "ALMA IPANEMA Residencial Style",
+    "url": "https://drive.google.com/drive/folders/1t5_pE9HpzMEQ5ruU3IgqhtSZbyNkCVMQ"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$2.100.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1b71rrrMTB13gtZHBJoeMgxFEtQGPqP1x"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$9.800.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1BMLPm5HnEZKZPUSsk7T5an-JEY_aki1Y"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$8.800.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "VISTA IPANEMA",
+    "url": "https://drive.google.com/drive/folders/12-tDM79puokA0urFlyyZc1ETGWznL-r4"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$20.080.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "VISTA IPANEMA",
+    "url": "https://drive.google.com/drive/folders/1Ylh805QAU2BR2Hw5EzSRrJSH9VbXlad9"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$2.125.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "Marias Estúdio Ipanema",
+    "url": "https://drive.google.com/drive/folders/1hS4mAu4818as_LeScEsmswF_5Oeinw1F"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Ipanema",
+    "Valor": "R$2.250.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "Marias Estúdio Ipanema",
+    "url": "https://drive.google.com/drive/folders/1UlqdsakPLR-P6jXk1BGYknwcYLfnFm6B"
+  },
+    {
+    "Nome do imovel": "Casa",
+    "Bairro": "Jacarepaguá",
+    "Valor": "R$1.190.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1ciQyDqmz8j4aI51PTIF_bwLmRSjCT4mj"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Jacarepaguá",
+    "Valor": "R$329.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1YzVUlAIxwnTxQfSGEqNFTXWNGgdtCoP5"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Jacarepaguá",
+    "Valor": "R$790.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Essence",
+    "url": "https://drive.google.com/drive/folders/1lx35odEs65u01rBrRN8y2aqiFqTnhLmD"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Jacarepaguá",
+    "Valor": "R$1.390.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1Kh3_8Za6n5fHeqXrLJ97I3_HSK_UnIn7"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Lagoa",
+    "Valor": "R$5.200.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1DVbGE23DbDd0yswZ976VC7EuH4rFdgCh"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Lagoa",
+    "Valor": "R$9.990.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1hld_2xeyaqdbgBu9q0bhJmJorL9RjHcP"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Lagoa",
+    "Valor": "R$9.900.000,00",
+    "Tipologia": "6qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/15wrZafvqRBmbtSvWlCBm7viGyFTbNMzp"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Leblon",
+    "Valor": "R$5.999.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1rvk8cdHkINE5VzqpSU9GbhjsF-7dX7X1"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Leblon",
+    "Valor": "R$9.800.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/11MfOGYuCkb03PHkxkXs3ZP6HCWiKTtOe"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Leblon",
+    "Valor": "R$30.000.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "TOM DELFIM MOREIRA",
+    "url": "https://drive.google.com/drive/folders/1DfggSMivlz-3uUaxQuBJTBm_Ak_rQzyd"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Leblon",
+    "Valor": "R$2.000.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1revyVWupv_cjMkPTW2X8AH0YPyjkvE-U"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Leblon",
+    "Valor": "R$1.921.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "ATOBÁ LEBLON",
+    "url": "https://drive.google.com/drive/folders/1ko4OYgAcYj5szPCk_mRkMn1bmB8jFZeK"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Leblon",
+    "Valor": "R$1.755.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "ATOBÁ LEBLON",
+    "url": "https://drive.google.com/drive/folders/1LhxwCKKX9GymUM0Prz9F8aVXFIKPLw5V"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Leblon",
+    "Valor": "R$3.676.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "ATOBÁ LEBLON",
+    "url": "https://drive.google.com/drive/folders/1aiB5KxnyfN3IwC6I-bxpJMenAroI1yAB"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Leblon",
+    "Valor": "R$2.000.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "ATOBÁ LEBLON",
+    "url": "https://drive.google.com/drive/folders/1Y-DhwXpVf_8uBDcAnYgWUQZCpLLJnVzF"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Pechincha",
+    "Valor": "R$375.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/147G6_rN6Fh1G6TCP0RCp0gTjm1hlxIk4"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$350.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1eqP6TeQn2oxCoN51jOgLVfk0wb_09LV1"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$650.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "RG Personal Residences",
+    "url": "https://drive.google.com/drive/folders/1VEssbXfolSqYumyE1CXGn79avekozzAr"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$930.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1pOY50ljrLY-8wKDXLMHHor7dvU6sDEtT"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$1.219.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1TMtYAmQIbJYt9iNwivcGO3ZA5BlJaBJn"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$580.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "Frames Residences",
+    "url": "https://drive.google.com/drive/folders/1Je5_yZPl5I5sJJGso7iVp8XgOAKnAJIm"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$1.290.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/16gmGdzSEbKgsCbww19Xa_mqVos91bKBS"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$658.871,00",
+    "Tipologia": "2qts",
+    "Condominio": "Vila Venezia",
+    "url": "https://drive.google.com/drive/folders/1x3qhtARTDpRBoz18Phvb0-lF5LGBIR7L"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$649.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Round Decks - Recanto do Recreio",
+    "url": "https://drive.google.com/drive/folders/14tvUaOYwHsiJ1zXc7abqeM35ElHOEi6F"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$1.100.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Park Premium Residences",
+    "url": "https://drive.google.com/drive/folders/1lFuaF9BhHkRh84Q8yObXduOH4bzq1IyT"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$1.590.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "SOFISTICATO RESIDENCE",
+    "url": "https://drive.google.com/drive/folders/1QxhBwEEZ_wLLW8DCbNT0D4HaICb5Fzly"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$1.150.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "MAUI UNIQUE LIFE RESIDENCES | Pontal Oceânico",
+    "url": "https://drive.google.com/drive/folders/1F9f9lwhFmgMlXcuWuXrwCsLl6Zzrj4vm"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$4.900.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Condomínio Mar a Mar | Praia do Recreio",
+    "url": "https://drive.google.com/drive/folders/1MxPDxQEIRf7fydOmhhuth36F6TSNkOGf"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$630.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Wonderfull Resort My Lifestyle",
+    "url": "https://drive.google.com/drive/folders/1F4xMo7u_rLz8m9glUPXq_lf_GFo0cfx-"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$750.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1t7DhZ7dqLjcR9Mef7lKl8m0zfVFlBNlx"
+  },
+    {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$680.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1kDN-Jec9oeZXoNxfGTMkbwcHWKJd1HQ1"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$1.990.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Terra Américas Recreio",
+    "url": "https://drive.google.com/drive/folders/1XzgleAv4inumljqqY-hRg9Q-fnL6wKqJ"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$949.700,00",
+    "Tipologia": "4qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1KKu-UjZ3bwS1IhiF_aQg_LWZ2fTR0ByQ"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$2.590.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Jardins de Maria Residências",
+    "url": "https://drive.google.com/drive/folders/1Y4MrW11IB1U6Z0sXQ09erOb38oYxgC5Q"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$2.990.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Jardins de Maria Residências",
+    "url": "https://drive.google.com/drive/folders/132gW8hUReQnsQYwddSthmvdKx5CkfZnI"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$1.265.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Villagio del Mare",
+    "url": "https://drive.google.com/drive/folders/1BRKt4NuLI8xp1W0hP7cWaNdnvqG7hnou"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Recreio dos Bandeirantes",
+    "Valor": "R$1.370.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Thai Condominium Club - Barra Bonita",
+    "url": "https://drive.google.com/drive/folders/13I1D06zg39Lh7WlkJZj7rCAqp2xb77j2"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Santo Cristo",
+    "Valor": "R$525.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "PORTO CARIOCA - Primeiro Resort do Porto Maravilha",
+    "url": "https://drive.google.com/drive/folders/13YDDoa81pHVDNbL3cRVfjVm3p8NSj5IW"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Santo Cristo",
+    "Valor": "R$427.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "PORTO CARIOCA - Primeiro Resort do Porto Maravilha",
+    "url": "https://drive.google.com/drive/folders/1kWf0WmKgBOEijH5syPe_bKSjJkw5096C"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Santo Cristo",
+    "Valor": "R$380.000,00",
+    "Tipologia": "1qt",
+    "Condominio": "PORTO MARAVILHA - Porto do Rio / Zona Portuária",
+    "url": "https://drive.google.com/drive/folders/1g8SCtKqQnQxQ0Kx9jwnT4pJwuwHxeU4e"
+  },
+    {
+    "Nome do imovel": "Casa",
+    "Bairro": "São Conrado",
+    "Valor": "R$35.000.000,00",
+    "Tipologia": "7qts",
+    "Condominio": "Jardim Pedra Bonita - São Conrado",
+    "url": "https://drive.google.com/drive/folders/1E7HVYUnNCrckrim4NPEj6OQZ9328JXP7"
+  },
+  {
+    "Nome do imovel": "Terreno",
+    "Bairro": "São Conrado",
+    "Valor": "R$16.000.000,00",
+    "Tipologia": "-",
+    "Condominio": "Jardim Pedra Bonita - São Conrado",
+    "url": "https://drive.google.com/drive/folders/1DxaP4GACKNmwI5Sib9Sh8fHpcfgDFSMU"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "São Conrado",
+    "Valor": "R$35.000.000,00",
+    "Tipologia": "7qts",
+    "Condominio": "Jardim Pedra Bonita - São Conrado",
+    "url": "https://drive.google.com/drive/folders/1rfLxXr9cLXjrPJDwxVTY1efbDuj1koox"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "São Conrado",
+    "Valor": "R$3.800.000,00",
+    "Tipologia": "6qts",
+    "Condominio": "Jardim Pedra Bonita - São Conrado",
+    "url": "https://drive.google.com/drive/folders/10pUCT9-sQAyWTCfKwEBlpDdgwXdgvkRv"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "São Conrado",
+    "Valor": "R$35.000.000,00",
+    "Tipologia": "7qts",
+    "Condominio": "Jardim Pedra Bonita - São Conrado",
+    "url": "https://drive.google.com/drive/folders/19cx3tuKwk9TLIqxydlb0YBCWF2jXYYoF"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Taquara",
+    "Valor": "R$870.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "Goden Dreams Residence",
+    "url": "https://drive.google.com/drive/folders/10ziBcoaVv9m8wtNgDJ0ByT932k3XXxbg"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Taquara",
+    "Valor": "R$255.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "Maraville",
+    "url": "https://drive.google.com/drive/folders/1Y1B45mTlpxv_E4xeEtlV7_GaFkUVlEWI"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Tijuca",
+    "Valor": "R$530.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1nf1LI8u68eC87HVj_F9OsNhE0ESbWzQj"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Vargem Grande",
+    "Valor": "R$949.700,00",
+    "Tipologia": "4qts",
+    "Condominio": "Condado de York",
+    "url": "https://drive.google.com/drive/folders/1vhTER1iN2vUWc1Gxdwp0IF5-BAXS3cjU"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Vargem Grande",
+    "Valor": "R$1.900.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Condado de York",
+    "url": "https://drive.google.com/drive/folders/1Nzn7E_YiWvkgvFxwY09Bfdv66D1orapw"
+  },
+    {
+    "Nome do imovel": "Casa",
+    "Bairro": "Vargem Grande",
+    "Valor": "R$1.520.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "Condado de York",
+    "url": "https://drive.google.com/drive/folders/1k7XQdJXXi4HYn2Ivg-4fJpQ8hlcSRNq_"
+  },
+  {
+    "Nome do imovel": "Terreno",
+    "Bairro": "Vargem Grande",
+    "Valor": "R$300.000,00",
+    "Tipologia": "-",
+    "Condominio": "Condado de York",
+    "url": "https://drive.google.com/drive/folders/1TxPtz50b97QRxQkbkow3pRW748u-t7Aa"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Vargem Grande",
+    "Valor": "R$590.000,00",
+    "Tipologia": "5qts",
+    "Condominio": "-",
+    "url": "https://drive.google.com/drive/folders/1MP8TcKYyt1R3UKuryd8abcDkXZyZAR5B"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Vargem Pequena",
+    "Valor": "R$1.390.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Advanced",
+    "url": "https://drive.google.com/drive/folders/1NfmNpryTmt6PC2z_0237vvJtAGHCicG_"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Vidigal",
+    "Valor": "R$8.950.000,00",
+    "Tipologia": "4qts",
+    "Condominio": "La Vue Penthouse",
+    "url": "https://drive.google.com/drive/folders/1QLEyrNDxmdcxRt-yAwQWXOgYFFXpf5vm"
+  },
+  {
+    "Nome do imovel": "Apartamento",
+    "Bairro": "Vila Isabel",
+    "Valor": "R$265.000,00",
+    "Tipologia": "2qts",
+    "Condominio": "Edifício Villabella",
+    "url": "https://drive.google.com/drive/folders/13VbYqYBsAb3nhJ8XpngZLbe3aEK9xYFb"
+  },
+  {
+    "Nome do imovel": "Casa",
+    "Bairro": "Teresópolis",
+    "Valor": "R$790.000,00",
+    "Tipologia": "3qts",
+    "Condominio": "Condomínio Village Suisse | Alto Teresópolis",
+    "url": "https://drive.google.com/drive/folders/1gvDTAa7EDqSju8HyhIajHCLje-8zlikn"
   }
 ]
