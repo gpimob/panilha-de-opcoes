@@ -31,7 +31,7 @@
     white-space: nowrap;
   }
 
-  td:nth-child(1)::before { content: "Imóvel"; }
+  td:nth-child(1)::before { content: "Tipo imóvel"; }
   td:nth-child(2)::before { content: "Bairro"; }
   td:nth-child(3)::before { content: "Valor"; }
   td:nth-child(4)::before { content: "Tipologia"; }
