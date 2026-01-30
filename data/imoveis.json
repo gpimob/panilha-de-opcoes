@@ -178,7 +178,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 1587000,
+    "Valor": "R$1.587.000,00",
     "Tipologia": "3qts",
     "Condominio": "Icon Golf Residences",
     "url": "https://drive.google.com/drive/folders/12PqsHBWgEM9M5k-Z1vQFHulyMobDDxIu"
@@ -186,7 +186,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 1650000,
+    "Valor": "R$1.650.000,00",
     "Tipologia": "3qts",
     "Condominio": "Barrinha",
     "url": "https://drive.google.com/drive/folders/1c9pt_bZGuG6m5zaGrevxQMPbtYxCFrns"
@@ -194,7 +194,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 1699000,
+    "Valor": "R$1.699.000,00",
     "Tipologia": "3qts",
     "Condominio": "Jardim Oceânico",
     "url": "https://drive.google.com/drive/folders/1DdWnkQOO_NEKKYoDWoxopMJo4wuNXLiF"
@@ -202,7 +202,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 1850000,
+    "Valor": "R$1.850.000,00",
     "Tipologia": "3qts",
     "Condominio": "Jardim Oceânico",
     "url": "https://drive.google.com/drive/folders/1oM2ITS1aV8OZWQwLL_aM7t42bDFUgZup"
@@ -210,7 +210,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 1950000,
+    "Valor": "R$1.950.000,00",
     "Tipologia": "3qts",
     "Condominio": "Alfa Plaza - Alfa Barra",
     "url": "https://drive.google.com/drive/folders/1gM-SFGfZ7qK_ntjPSQiCUJfpGrIMw1f6"
@@ -218,7 +218,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 1990000,
+    "Valor": "R$1.990.000,00",
     "Tipologia": "3qts",
     "Condominio": "Condomínio Lyon",
     "url": "https://drive.google.com/drive/folders/1z2capX-rPktrA7hpSLFTOQ0QchzaFuTS"
@@ -226,7 +226,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 2450000,
+    "Valor": "R$2.450.000,00",
     "Tipologia": "3qts",
     "Condominio": "Palais de Nice",
     "url": "https://drive.google.com/drive/folders/1cTmlcmtKAIIY4zjBBlhL5CfhTzXQRhBG"
@@ -234,7 +234,7 @@
   {
     "Nome do imovel": "Casa",
     "Bairro": "Barra da Tijuca",
-    "Valor": 2798000,
+    "Valor": "R$2.798.000,00",
     "Tipologia": "5qts",
     "Condominio": "Interlagos Quality",
     "url": "https://drive.google.com/drive/folders/1W1Te67Y6WHMsH6l4XlfYQ1fe22hprDwt"
@@ -242,7 +242,7 @@
     {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 5473000,
+    "Valor": "R$5.473.000,00",
     "Tipologia": "4qts",
     "Condominio": "Font Vieille - Península Barra",
     "url": "https://drive.google.com/drive/folders/1ZsiptbXKlXqz_U-GE3exhidvIYkGzc5k"
@@ -250,7 +250,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 2900000,
+    "Valor": "R$2.900.000,00",
     "Tipologia": "4qts",
     "Condominio": "Font Vieille - Península Barra",
     "url": "https://drive.google.com/drive/folders/1f7QeWuwbj8Xt0pjKGFJhOymTUlEJdlpS"
@@ -258,7 +258,7 @@
   {
     "Nome do imovel": "Casa",
     "Bairro": "Barra da Tijuca",
-    "Valor": 2950000,
+    "Valor": "R$2.950.000,00",
     "Tipologia": "4qts",
     "Condominio": "Santa Marina",
     "url": "https://drive.google.com/drive/folders/1RqS2UYDwuVbeFaxtwFsJ8eyB7FNPWhT1"
@@ -266,7 +266,7 @@
   {
     "Nome do imovel": "Apartamento",
     "Bairro": "Barra da Tijuca",
-    "Valor": 2990000,
+    "Valor": "R$2.990.000,00",
     "Tipologia": "3qts",
     "Condominio": "Ocean Drive - Praia da Barra",
     "url": "https://drive.google.com/drive/folders/1k1BljANUpFa-jZWC5Flxaqa7UmBBshcI"
@@ -466,7 +466,7 @@
   {
     "Nome do imovel": "Casa",
     "Bairro": "Barra da Tijuca",
-    "Valor": "R$50.000,00",
+    "Valor": "R$50.000,00 Aluguel",
     "Tipologia": "6qts",
     "Condominio": "Pedra de Itaúna",
     "url": "https://drive.google.com/drive/folders/1guXorqyT6unPedLTpcQqIvKdIk_Ktu1J"
@@ -602,7 +602,7 @@
   {
     "Nome do imovel": "Casa",
     "Bairro": "Barra da Tijuca",
-    "Valor": "R$70.000,00",
+    "Valor": "R$70.000,00 Aluguel",
     "Tipologia": "9qts",
     "Condominio": "Novo Leblon",
     "url": "https://drive.google.com/drive/folders/1E933EC4RYHlEAGCX7574pHTMrKx9aM7y"
@@ -658,7 +658,7 @@
   {
     "Nome do imovel": "Loja",
     "Bairro": "Botafogo",
-    "Valor": "R$29.500,00",
+    "Valor": "R$29.500,00 Aluguel",
     "Tipologia": "-",
     "Condominio": "-",
     "url": "https://drive.google.com/drive/folders/1BoDCiCSlx4SKff8Rqe-RQgSfBsDX-yON"
